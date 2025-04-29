@@ -1,2 +1,28 @@
-# GettingThingsDoneObsidianVault
-Framework vault with a good Getting Things Done (David Allen) workflow
+# Introduction
+I've been using obsidian for a couple months and really enjoying it, but this past week I read Getting Things Done by David Allen and massively improved my note organization. I recommend reading the updated 2015 version of the book, since a lot of the ideas I'll be referencing in this post may not make sense without having read the book, and he expands on a lot of useful tips for all these steps and other best practices.
+
+This is a basic framework vault for using the Getting Things Done method. The files, folders, and templates I'll be referring to are in this vault. The basic workflow I'm describing here is shown in the flow charts in the `Inbox` file. 
+
+# The workflow
+To start, any ideas, todos, reminders, etc you think of, put them in the list in the `Inbox` file. Then, when you process them, follow the flow charts for how to organize it. 
+
+If you have something that isn't actionable, you decide to either delete it, add it to the someday/maybe file, or store it in the `Reference material` folder. You can spin up a project with the project workflow described below when adding things to the someday/maybe file if you want, or you can add it to any non-project section you want. The someday/maybe file is much looser in it's structure, which is fine especially if you're reviewing it weekly. The `Reference material` folder is also pretty loose. Store things in there however you want so you can easily access them if/when you need them.
+
+If it is actionable, and it would take more than two discrete actions, you spin up a project. Go to to the `Projects` file, and in the list of projects, insert the template called "Project list template". Then, replace the link with a name of the project. The Outcome vision and Next action embeds must also be edited to use the new link (only edit the link before the `#^` part). You can tap or click on them to see and edit the actual link they use. Now tap the Project link header to create and open the file for the project, and insert the template called "ProjectTemplate". Personally, I always fill in the Purpose section and Outcome vision section, since those are key to having a "healthy" project according to the Getting things done method, and I find them useful and worthwhile on every "project" I've spun up. The Brainstorming and Organizing sections depend much more on the specific project, most of mine are easy enough that I don't need to fill those out, but some do need some extra processing and in that case those sections are helpful. Finally, make sure to define at least one Next Action, something that you could do right now if you were in the right context and had nothing else to do. It must be very specific, see the book for the explanation of the importance of concrete next actions. 
+
+Once you have the next action defined (or the inbox item you're talking about is only a one-step thing anyways), take that and keep going through the flowchart in `Inbox`. If it would take <2 minutes, do it right now (if the action is part of a project, once you're finished define the new "next action" and continue the flow chart again). If the next action would take >2 minutes, decide what to do with it. If it's something you're waiting on somebody else for, it will go into the Delegated section of the `Next actions` file. If it's something you yourself will do eventually, it will go under the appropriate context in the `Next actions` file (feel free to change the contexts however suits you best. The book has great guidance on different ways of organizing your contexts). If it's something you need to be reminded of at a specific day and/or time, put it in your calendar (see note below, this is a bring-your-own-calendar (BYOC) framework).
+
+To add an action from a project to your Next Actions file, I copy the Next action embed from the `Projects` file into the context list, so that way when I check off the item, it also checks it off in the project file and the `Projects` list, and when I go in to the project file to set a new next action (by moving `^next-action` to the end of the line of the next action), it updates across `Projects` and `Next actions` too. There's an example of how this works already set up in the vault, I recommend looking at all the files in source mode so you get an idea how it all works.
+
+The only thing missing is a calendar, you'll want a proper calendar app that can generate notifications. I recommend [Fossify Calendar](https://github.com/FossifyOrg/Calendar), because in addition to standard events it can also create "tasks", a time based event that doesn't go away until you mark it as "Completed". This is a pretty key part of my workflow for reminding myself to do stuff at certain times and helping me track whether it's done or not, and keep it in focus till it is. Make sure to follow the GTD method and keep the calendar strictly for things that must be done at a certain time and/or on a certain day.
+
+## Weekly review
+The `Weekly review` file is a condensed, hopefully-self-explanatory checklist derived the book. The book has a lot of good info on why the weekly review is super important. 
+
+## Horizons
+The vault is also already set up with a project to define some of the different horizons the book references (current actions, current projects, areas of focus/responsibility, one to two year goals, long-term visions, and your overall life). This isn't necessary, but it might be helpful, and it gives you an example of how to organize a project file and link it to the other files (again, look through all the files in source mode to see how they're set up).
+
+Also check out the graph view to get an idea of the layout!
+
+# Help make this better
+I wrote this guide up pretty quickly and haven't deeply proofread it. If anything's unclear or could be explained better, or I made typos, or whatever, please let me know! Ultimately I want to create a nice polished version of this guide so I can share it with coworkers and friends, but this is the rough draft. Feel free to open an issue.
