@@ -1,0 +1,31 @@
+{
+  "mobileToolbarCommands": [
+    "editor:cycle-list-checklist",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "insert-template",
+    "insert-current-date",
+    "editor:delete-paragraph",
+    "audio-recorder:start",
+    "audio-recorder:stop",
+    "command-palette:open",
+    "editor:toggle-fold",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-numbered-list",
+    "editor:insert-link",
+    "editor:insert-callout",
+    "editor:attach-file",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:move-caret-up",
+    "editor:move-caret-down",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ]
+}
