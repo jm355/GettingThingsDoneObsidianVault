@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Archive/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,7 +171,12 @@
   },
   "active": "3a01fbff2424310c",
   "lastOpenFiles": [
+    "Reference material/Sample reference material.md",
+    "Archive/README.md",
+    "Archive",
+    "Untitled.canvas",
     "Inbox.md",
+    "README.md",
     "Areas of focus.md",
     "Projects/Document GTD horizons.md",
     "Weekly review.md",
