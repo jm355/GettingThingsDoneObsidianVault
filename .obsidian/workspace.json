@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -142,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of README"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,21 +171,24 @@
   },
   "active": "3a01fbff2424310c",
   "lastOpenFiles": [
-    "Reference material/Sample reference material.md",
-    "Archive/README.md",
-    "Archive",
-    "Untitled.canvas",
-    "Inbox.md",
-    "README.md",
-    "Areas of focus.md",
-    "Projects/Document GTD horizons.md",
-    "Weekly review.md",
-    "Someday maybe file.md",
     "Next actions.md",
     "Projects.md",
-    "Templates/ProjectTemplate.md",
-    "Attachments/GTD stuff flowchart.jpg",
+    "Reference material/Sample reference material.md",
+    "README.md",
+    "Attachments/GTD stuff flowchart.png",
+    "pro.md",
     "Templates/Project list template.md",
+    "Inbox.md",
+    "Attachments/GTD stuff flowchart.jpg",
+    "Archive/README.md",
+    "Reference material/Getting Things Done",
+    "Archive",
+    "Untitled.canvas",
+    "Reference material/Getting Things Done/Areas of focus.md",
+    "Projects/Document GTD horizons.md",
+    "Reference material/Getting Things Done/Weekly review.md",
+    "Someday maybe file.md",
+    "Templates/ProjectTemplate.md",
     "Attachments",
     "Templates/Party planning template.md",
     "Clean up browser tabs.md",

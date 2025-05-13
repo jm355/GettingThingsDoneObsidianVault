@@ -6,7 +6,7 @@
 - 
 
 # Flow charts
-![[GTD stuff flowchart.jpg]]
+![[GTD stuff flowchart.png]]
 
 ```mermaid 
 
