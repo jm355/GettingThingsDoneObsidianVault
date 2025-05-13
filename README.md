@@ -1,3 +1,4 @@
+This is a dense set of instructions for how to use this vault! I had ChatGPT make a README based on this one which can be found at [[ChatGPT README]]. It misses key points and hallucinated some things about how to use this repo, but if you want a TL;DR, head over there!
 # Introduction
 I've been using [Obsidian](https://obsidian.md/) for a couple months and really enjoying it, but this past week I read Getting Things Done by David Allen and massively improved my note organization. I recommend reading the updated 2015 version of the book, since a lot of the ideas I'll be referencing in this post may not make sense without having read the book, and he expands on a lot of useful tips for all these steps and other best practices.
 
